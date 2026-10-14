@@ -1,3 +1,7 @@
 lname = "my-backend-worker"
 compatibility_date = "2026-10-12"
 main = "src/index.ts"
+
+[[kv_namespaces]]
+binding = "SHARED_DATA_STORE"
+id = "769556193e314e4e85426e1fb94bd04f"
