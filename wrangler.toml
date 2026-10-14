@@ -1,0 +1,3 @@
+lname = "my-backend-worker"
+compatibility_date = "2026-10-12"
+main = "src/index.ts"

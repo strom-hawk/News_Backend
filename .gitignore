@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-node_modules/
-dist/
-coverage/
-*.tsbuildinfo
-
-.wrangler/
-
-.env
-.env.*
-!.env.example
-.dev.vars
-.dev.vars.*
-!.dev.vars.example
-=======
 # Logs
 logs
 *.log
@@ -124,6 +109,7 @@ dist
 
 # Serverless directories
 .serverless/
+.wrangler/
 
 # FuseBox cache
 .fusebox/
@@ -162,4 +148,3 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
->>>>>>> 248a20310fd3930e9463929f0ef8f8e7a4f8d81d
